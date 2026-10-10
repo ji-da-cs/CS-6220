@@ -1,0 +1,1 @@
+To Recreate, install all dependencies in requirements.txt and run the jupyter notebook

@@ -1,0 +1,4 @@
+Jupyter notebook
+NumPy
+Pandas
+sklearn.model_selection
